@@ -1,0 +1,49 @@
+body {
+    background: #ffffff;
+    color: #0000ff;
+    font-family: 'Comic Sans MS', serif;
+    text-align: center;
+    justify-content: center;
+}
+
+.navbar {
+    background: #ae8759;
+}
+
+#uncharted_big {
+    margin-bottom: 7px;
+}
+
+#uncharted_mid {
+    margin-bottom: 5px;
+}
+
+#uncharted_lit {
+    margin-bottom: 3px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: bold;
+}
+
+article {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100px;
+    bottom: 0;
+    width: 100%;
+}

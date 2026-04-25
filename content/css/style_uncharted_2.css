@@ -1,0 +1,13 @@
+body {
+    background: #555f5f;
+    color: #e8fbfe;
+}
+
+#about {
+    display: flex;
+    background: #2099d2;
+}
+
+#fp {
+    background: #714c27;
+}
